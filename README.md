@@ -1,3 +1,7 @@
+# Travel-List
+
+This is a basic react app, through which I've learned the use of basic Form elements and handling submissions of Form in React.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
